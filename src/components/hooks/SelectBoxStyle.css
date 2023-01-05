@@ -1,0 +1,15 @@
+ul {
+    margin: 0;
+    padding: 0;
+    border: 1px solid gray;
+}
+ul li {
+    padding: 10px;
+}
+ul li:hover {
+    background-color: rgb(238, 230, 230);
+    cursor: pointer;
+}
+.select-box {
+    width: 250px;
+}
